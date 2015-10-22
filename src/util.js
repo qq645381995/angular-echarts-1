@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * util services
+ * util services123
  */
 angular.module('angular-echarts.util', []).factory('util', function () {
 
